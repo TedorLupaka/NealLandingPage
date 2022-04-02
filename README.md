@@ -1,2 +1,2 @@
 # NEAL AFRICA
-Prototype landing page for Neal Africa.
+This is a prototype landing page for Neal Africa.
